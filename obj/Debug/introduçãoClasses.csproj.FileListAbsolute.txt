@@ -1,0 +1,12 @@
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\bin\Debug\introduçãoClasses.exe.config
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\bin\Debug\introduçãoClasses.exe
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.csproj.AssemblyReference.cache
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.FrmAlimento.resources
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.FrmLoja.resources
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.FrmPrefeito.resources
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.Properties.Resources.resources
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.csproj.GenerateResource.cache
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.exe
+H:\Visual Studio 2022\POO\Projects\2-Etapa\Classes_FabricioCampos\obj\Debug\introduçãoClasses.pdb
